@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/09/2025
+## Register Number:25012396
+## Name:Kamlesh P                                                                                                                 
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,51 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Develop a smart, AI-driven advisory platform tailored to the needs of small and marginal farmers. Key features:
+Personalization: Recommends crops, fertilizers, and practices based on soil, weather, and previous yields
+Localization: Supports regional languages and dialects
+Accessibility: Works on basic smartphones with voice support
+Integration: Combines real-time weather data, satellite imagery, and market information
+Scalability: Designed to scale across districts with different cropping patterns and conditions
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Technologies:
+AI/ML for advisory engine and image recognition (e.g., TensorFlow, PyTorch)
+Mobile app frameworks (e.g., React Native, Flutter)
+Cloud-based infrastructure (e.g., AWS, Azure)
+Natural Language Processing (NLP) and Text-to-Speech APIs for multilingual and voice support
+
+Implementation Workflow:
+User registration with location and crop details
+Soil and weather data integration via APIs or manual input
+Real-time advisory engine generates insight
+User interacts via app or voice assistant
+Feedback and performance tracking for continuous improvement
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Feasibility:
+High mobile penetration in rural India
+Availability of government soil and weather data
+Growing acceptance of digital tools post-COVID
+Challenges:
+Low digital literacy
+Limited internet in remote areas
+Farmer resistance to adopting new technology
+Mitigation Strategies:
+Offline app capability
+Local language voice assistant
+Community-level training via NGOs and extension workers
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Economic: Higher income due to better yield and cost reduction
+Social: Improved decision-making, reduced dependency on middlemen
+Environmental: Lower chemical usage, better soil health, sustainable practices
+Policy: Supports government initiatives like Digital India, Soil Health Cards, and PM-KISAN
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ba3f363c-35fc-47d8-9a06-2f3b22af0e6e" />
+
+NABARD All India Rural Financial Inclusion Survey (NAFIS) Report 2022
+FAO: ICT in Agriculture – Opportunities and Challenges
+Indian Council of Agricultural Research (ICAR) studies on ICT-based advisories
+Research papers on AI in Agriculture and Precision Farming
